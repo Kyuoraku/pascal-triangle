@@ -1,0 +1,11 @@
+C:\Users\ngodoy\source\repos\trianguloPascal\obj\Debug\netcoreapp3.1\trianguloPascal.csprojAssemblyReference.cache
+C:\Users\ngodoy\source\repos\trianguloPascal\obj\Debug\netcoreapp3.1\trianguloPascal.AssemblyInfoInputs.cache
+C:\Users\ngodoy\source\repos\trianguloPascal\obj\Debug\netcoreapp3.1\trianguloPascal.AssemblyInfo.cs
+C:\Users\ngodoy\source\repos\trianguloPascal\bin\Debug\netcoreapp3.1\trianguloPascal.exe
+C:\Users\ngodoy\source\repos\trianguloPascal\bin\Debug\netcoreapp3.1\trianguloPascal.deps.json
+C:\Users\ngodoy\source\repos\trianguloPascal\bin\Debug\netcoreapp3.1\trianguloPascal.runtimeconfig.json
+C:\Users\ngodoy\source\repos\trianguloPascal\bin\Debug\netcoreapp3.1\trianguloPascal.runtimeconfig.dev.json
+C:\Users\ngodoy\source\repos\trianguloPascal\bin\Debug\netcoreapp3.1\trianguloPascal.dll
+C:\Users\ngodoy\source\repos\trianguloPascal\bin\Debug\netcoreapp3.1\trianguloPascal.pdb
+C:\Users\ngodoy\source\repos\trianguloPascal\obj\Debug\netcoreapp3.1\trianguloPascal.dll
+C:\Users\ngodoy\source\repos\trianguloPascal\obj\Debug\netcoreapp3.1\trianguloPascal.pdb
